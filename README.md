@@ -15,4 +15,4 @@
 ![Preview](https://res.cloudinary.com/malice/image/upload/v1506150244/AwesomeScreenshot-2017-09-23T06-58-59-680Z_oktatl.gif)
 
 
-***Note:** Install [this Chrome extension](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi?utm_source=chrome-app-launcher-info-dialog) for cross-browser HTTP requests with Axios*
+***Note:** Install [this Chrome extension](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi?utm_source=chrome-app-launcher-info-dialog) for cross-origin HTTP requests with Axios*
